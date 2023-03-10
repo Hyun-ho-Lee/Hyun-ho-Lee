@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E0bdf9&fontColor=4c0464&height=100&section=header&text=HyunHo%20Lee&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A0bdf9&fontColor=3c0464&height=100&section=header&text=HyunHo%20Lee&fontSize=50)
 
 
 <div align=center> 
