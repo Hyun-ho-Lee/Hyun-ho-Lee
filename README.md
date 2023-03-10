@@ -17,3 +17,8 @@
   <a href="mailto:lake8000@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byhan2253@ds.seoultech.ac.kr"/></a>
   
 </div>
+
+
+### 🚀 Things I do
+
+- **NLP Researcher**,**XAI** , contributing on **NLP** with Open Source!
