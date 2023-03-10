@@ -1,16 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=E0bdf9&fontColor=3c0464&height=100&section=header&text=Boyoung%20Han&fontSize=50)
 
-<!--
-**Hyun-ho-Lee/Hyun-ho-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align=center> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=black)&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
+  
+  <br>
+  <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
+  <br><br>
+ 
+  <a href="http://data.seoultech.ac.kr/"><img src="https://img.shields.io/badge/DataScience-0d1854?style=flat-square&logo=Databricks&logoColor=white&link=http://data.seoultech.ac.kr/"/></a>&nbsp;
+  <br><br>
+  <a href="mailto:lake8000@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byhan2253@ds.seoultech.ac.kr"/></a>
+  
+</div>
